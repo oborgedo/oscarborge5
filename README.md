@@ -7,7 +7,7 @@ BI professional with 8+ years at Nokia building analytics infrastructure and gov
 
 ### What I'm Working On: 
 
-⚙️ Current project: Telecom Churn Analysis - end-to-end Machine Learning analytics solution with Python, SQL, and Power BI check it out [here]!)
+⚙️ Current project: Telecom Churn Analysis - end-to-end Machine Learning analytics solution with Python, SQL, and Power BI check it out [here](https://github.com/oborgedo/Power-BI-Churn-Analysis-Power-BI-Pandas-Machine-Learning)!
 📚 Currently learning: AWS/Azure cloud architecture, Python for data pipelines, and modern data stack tools
 🤝 Open to collaborate on: Data analytics projects, BI dashboards, or data governance initiatives
 💡 Ask me about: Power BI, SQL, data governance, stakeholder management, and marketing analytics
